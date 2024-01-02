@@ -14,11 +14,11 @@ Follow these steps to set up and run the chatbot:
 
 **Clone this repository to your local machine:**
 ```bash
-git clone https://github.com/your-username/chatbot-with-pdf-integration.git
+git clone https://github.com/NextIn035846/ChatBoat_Haystek-Technologies.git
 ```
 **Navigate to the project directory:**
 ```bash
-cd chatbot-with-pdf-integration
+cd ChatBoat_Haystek-Technologies.git
 ```
 **Install the required dependencies:**
 ```bash
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 **Run the chatbot:**
 ```bash
-python chatbot.py
+streamlit run app.py
 ```
 ## Usage
 The chatbot is now running and ready to assist you with any questions you may have. It uses the information extracted from the provided PDF documents to provide accurate responses. If a relevant response is not found in the PDFs, the chatbot falls back to the local Language Model.
