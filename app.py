@@ -10,7 +10,7 @@ from langchain.memory import ConversationBufferMemory
 import os
 
 #Add Your Google Api KEy
-os.environ['GOOGLE_API_KEY'] =  'AIzaSyA8TesjTLzuqovktzzhu4Vvdo3F0Tbcpvc'
+os.environ['GOOGLE_API_KEY'] =  'AI'
 
 def get_pdf_text(pdf_docs):
     text=""
